@@ -1,0 +1,113 @@
+geo_key,country_iso3,country_name,state_code,is_usa
+ALG,ALG,Algeria,,0
+ANG,ANG,Angola,,0
+ARG,ARG,Argentina,,0
+AUS,AUS,Australia,,0
+BEL,BEL,Belgium,,0
+BOL,BOL,Bolivia,,0
+BRA,BRA,Brazil,,0
+CAN,CAN,Canada,,0
+CEN,CEN,Central African Republic,,0
+CHI,CHI,Chile,,0
+COL,COL,Colombia,,0
+COS,COS,Costa Rica,,0
+COT,COT,CoteD'Ivoire,,0
+DEN,DEN,Denmark,,0
+DOM,DOM,Dominican Republic,,0
+ECU,ECU,Ecuador,,0
+EGY,EGY,Egypt,,0
+EL ,EL ,El Salvador,,0
+FIN,FIN,Finland,,0
+FRA,FRA,France,,0
+GER,GER,Germany,,0
+GHA,GHA,Ghana,,0
+GRE,GRE,Greece,,0
+GUA,GUA,Guatemala,,0
+HON,HON,Honduras,,0
+HUN,HUN,Hungary,,0
+ICE,ICE,Iceland,,0
+IND,IND,India,,0
+IRE,IRE,Ireland,,0
+ITA,ITA,Italy,,0
+JAP,JAP,Japan,,0
+KEN,KEN,Kenya,,0
+KOR,KOR,Korea,,0
+MAL,MAL,Malaysia,,0
+MAU,MAU,Mauritius,,0
+MEX,MEX,Mexico,,0
+MOR,MOR,Morocco,,0
+MYA,MYA,Myanmar,,0
+NET,NET,Netherlands,,0
+NEW,NEW,New Zealand,,0
+NIC,NIC,Nicaragua,,0
+NIG,NIG,Nigeria,,0
+NOR,NOR,Norway,,0
+PAN,PAN,Panama,,0
+PAR,PAR,Paraguay,,0
+PER,PER,Peru,,0
+PHI,PHI,Philippines,,0
+POL,POL,Poland,,0
+POR,POR,Portugal,,0
+ROM,ROM,Romania,,0
+RUS,RUS,Russia,,0
+SIN,SIN,Singapore,,0
+SOU,SOU,South Africa,,0
+SPA,SPA,Spain,,0
+SRI,SRI,Sri Lanka,,0
+SWE,SWE,Sweden,,0
+SWI,SWI,Switzerland,,0
+TAI,TAI,Taiwan,,0
+THA,THA,Thailand,,0
+TUN,TUN,Tunisia,,0
+TUR,TUR,Turkey,,0
+UNI,UNI,United Kingdom,,0
+URU,URU,Uruguay,,0
+VEN,VEN,Venezuela,,0
+ZAM,ZAM,Zambia,,0
+ZIM,ZIM,Zimbabwe,,0
+USA,USA,United States,,1
+GLOBAL,GLB,Global,,0
+USA-OK,USA,United States,OK,1
+USA-PA,USA,United States,PA,1
+USA-IA,USA,United States,IA,1
+USA-KS,USA,United States,KS,1
+USA-CA,USA,United States,CA,1
+USA-NY,USA,United States,NY,1
+USA-FL,USA,United States,FL,1
+USA-WV,USA,United States,WV,1
+USA-NE,USA,United States,NE,1
+USA-NJ,USA,United States,NJ,1
+USA-OH,USA,United States,OH,1
+USA-KY,USA,United States,KY,1
+USA-TX,USA,United States,TX,1
+USA-IL,USA,United States,IL,1
+USA-WI,USA,United States,WI,1
+USA-LA,USA,United States,LA,1
+USA-UT,USA,United States,UT,1
+USA-AR,USA,United States,AR,1
+USA-GA,USA,United States,GA,1
+USA-TN,USA,United States,TN,1
+USA-WA,USA,United States,WA,1
+USA-CO,USA,United States,CO,1
+USA-PR,USA,United States,PR,1
+USA-MN,USA,United States,MN,1
+USA-MD,USA,United States,MD,1
+USA-SC,USA,United States,SC,1
+USA-VA,USA,United States,VA,1
+USA-ID,USA,United States,ID,1
+USA-CT,USA,United States,CT,1
+USA-AZ,USA,United States,AZ,1
+USA-NV,USA,United States,NV,1
+USA-NC,USA,United States,NC,1
+USA-MO,USA,United States,MO,1
+USA-AL,USA,United States,AL,1
+USA-MI,USA,United States,MI,1
+USA-IN,USA,United States,IN,1
+USA-MS,USA,United States,MS,1
+USA-NM,USA,United States,NM,1
+USA-OR,USA,United States,OR,1
+USA-MA,USA,United States,MA,1
+USA-SD,USA,United States,SD,1
+USA-WY,USA,United States,WY,1
+USA-NH,USA,United States,NH,1
+USA-HI,USA,United States,HI,1
